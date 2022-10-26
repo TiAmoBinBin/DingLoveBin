@@ -1348,13 +1348,12 @@ audio {
 	position: fixed;
 	top:100%;
 	opacity: 0.5;
-	z-index: 9999;
+	z-index: 9998;
 }
 .control-panel {
 	position: fixed;
 	bottom: 0;
 	padding:10px 0px 10px 0px;
-	z-index: 9999;
 }
 #play, #play2, #play3, #play4, #bannar_coming, #balloons_flying,#cake_fadein,#light_candle,#form_submit,#wish_message,#story {
 	display: none;

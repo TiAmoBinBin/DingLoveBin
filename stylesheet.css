@@ -1355,7 +1355,7 @@ audio {
 	bottom: 0;
 	padding:10px 0px 10px 0px;
 }
-#play, #play2, #play3, #play4, #bannar_coming, #balloons_flying,#cake_fadein,#light_candle,#turn_on,#wish_message,#story {
+#play, #play2, #play3, #play4, #bannar_coming, #balloons_flying,#cake_fadein,#light_candle,#form_submit,#wish_message,#story {
 	display: none;
 }
 

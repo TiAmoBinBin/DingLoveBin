@@ -5,6 +5,7 @@ $(window).load(function () {
 $('document').ready(function () {
     var vw;
     $('.pigcake').fadeOut('fast');
+    $('.heart').fadeOut('fast');
     $(window).resize(function () {
         vw = $(window).width() / 2;
         $('#b1,#b2,#b3,#b4,#b5,#b6,#b7').stop();

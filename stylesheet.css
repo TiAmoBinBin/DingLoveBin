@@ -1325,7 +1325,7 @@ audio {
 	bottom:10%;
 	left:10%;
 	opacity: 0.5;
-	z-index: 9999;
+	z-index: 9998;
 }
 
 .pigcake{
@@ -1333,14 +1333,14 @@ audio {
 	bottom:40%;
 	left:40%;
 	opacity: 0.5;
-	z-index: 9999;
+	z-index: 9998;
 }
 .heart{
 	position: fixed;
 	bottom:20%;
 	left:20%;
 	opacity: 0.5;
-	z-index: 9999;
+	z-index: 9998;
 }
 
 
@@ -1354,6 +1354,7 @@ audio {
 	position: fixed;
 	bottom: 0;
 	padding:10px 0px 10px 0px;
+	z-index: 9999;
 }
 #play, #play2, #play3, #play4, #bannar_coming, #balloons_flying,#cake_fadein,#light_candle,#form_submit,#wish_message,#story {
 	display: none;

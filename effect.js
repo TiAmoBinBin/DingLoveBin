@@ -218,7 +218,7 @@ $('document').ready(function () {
                 $("p:nth-child(" + i + ")").fadeIn('slow').delay(1500);
                 if (i == 31) {
                     $("p:nth-child(31)").fadeOut('slow').promise().done(function () {
-                        $('.pigcake').fadeIn('fast');
+                        $('.heart').fadeIn('fast');
    			$('#play4').fadeIn('slow');			
                     });
                 }
